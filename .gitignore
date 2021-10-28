@@ -6,3 +6,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Pycharm
+.idea/
+
+# Distribution
+Lusty.egg-info/
+dist/
